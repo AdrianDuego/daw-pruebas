@@ -1,0 +1,16 @@
+body{
+
+    background-color: blue;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+h2{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: larger;
+
+
+}
